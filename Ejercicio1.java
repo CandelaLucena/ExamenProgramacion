@@ -14,5 +14,6 @@ public class Ejercicio1{
         System.out.println(squareArea);
 
         sc.close();
+        //oliiii
     }
 }
